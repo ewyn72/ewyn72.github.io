@@ -45,10 +45,6 @@ h4 {
     color: white;
 }
 
-.social-icons a:hover {
-    color: aqua;
-    transition: .5s ease-in-out;
-}
 .line-break {
     width: 400px;
     margin: 0 auto;
@@ -65,7 +61,7 @@ h4 {
     text-decoration: none;
 }
 
-a:link:hover {
+a:hover {
     color: aqua;
     transition: .5s ease-in-out;
 }
