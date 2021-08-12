@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Ethan Ng",
+    "occupation": "Software Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "Volleyball and Badminton enthusiast, avid gamer, and lover of all things motorsports. I'm at the beginning of my software career and have the drive to compete with the best and brightest in this competitive industry. I have the most experience in Full Stack development with the MERN stack but I'm constantly learning and willing to learn new technologies. Please feel free to reach out to me if you have any questions!",
+    "contactmessage": "Like what you see or have questions for me? Send me an email or reach out to me over phone!",
+    "email": "ekyng72@gmail.com",
+    "phone": "(403) 894-3868",
+    "website": "",
+    "resumedownload": "assets/Resume 2021.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ethan.ng.313",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ethan-ng-16921315b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/ewyn72",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Some of the skills I've acquired over the years.",
+    "education": [
+      {
+        "school": "Western University",
+        "degree": "Bachelor of Engineering Science, Software Engineering Specialization",
+        "graduated": "April 2021",
+        "description": "Some relevant courses: Object Oriented Design, Database Management Systems, Web technologies."
+      }
+    ],
+    "work": [
+      {
+        "company": "Amazon",
+        "title": "Software Development Engineer Intern",
+        "years": "July 2020 - September 2020",
+        "description": "Worked on the Tax Service team doing feature development for internal processes • Developed a React front-end service which provided greater visibility and maintainability of tax data structures using a Serverless Application Model by taking advantage of AWS Lambda, DynamoDB, Cognito, and API Gateway as the backend • Full product ownership from design to deployment of service"
+      },
+      {
+        "company": "ATB Financial",
+        "title": "ATB 101 Student - Operations Support",
+        "years": "May 2019 - March 2020",
+        "description": "Part of the Operations Support team working primarily on process automation to improve internal workflow efficiency • Implemented projects and scripts primarily in Google Script for repetitive workflows in teams to create time savings of up to an hour per person on the process • Collaborated closely with banking process stakeholder in an agile development environment to define project needs and specifications"
+      }
+    ],
+    "skillsIndustry": [
+      {
+        "name": "JavaScript",
+        "level": "Expert"
+      },
+      {
+        "name": "Git",
+        "level": "Expert"
+      },
+      {
+        "name": "ReactJs",
+        "level": "Expert"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "Proficient"
+      },
+      {
+        "name": "AWS",
+        "level": "Proficient"
+      },
+      {
+        "name": "Node.js",
+        "level": "Proficient"
+      }
+    ],
+    "skillsOthers": [
+      {
+        "name": "C++",
+        "level": "Competent"
+      },
+      {
+        "name": "C#",
+        "level": "Competent"
+      },
+      {
+        "name": "Python",
+        "level": "Competent"
+      },
+      {
+        "name": "Android",
+        "level": "Advanced Beginner"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Contagion Simulator",
+        "category": "University capstone project (MVP)",
+        "image": "contagion.jpg",
+        "url": "https://github.com/Keven-Zhu/Contagion-Simulator"
+      },
+      {
+        "title": "Web Application - Music Reviews",
+        "category": "(Local school project) Web app with major web tech functionality implemented",
+        "image": "musicapp.jpg",
+        "url": "https://github.com/ewyn72/se3316-eng72-lab5"
+      },
+      {
+        "title": "Realistic Racing Game",
+        "category": "Game which simulates physics of a moving vehicle in the unity engine.",
+        "image": "rrg.jpg",
+        "url": "https://github.com/ewyn72/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      
+    ]
+  }
+}
