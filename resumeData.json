@@ -103,19 +103,19 @@
         "title": "Contagion Simulator",
         "category": "University capstone project (MVP)",
         "image": "contagion.jpg",
-        "url": "https://github.com/Keven-Zhu/Contagion-Simulator"
+        "url": "https://github.com/ewyn72/ContagionSim"
       },
       {
         "title": "Web Application - Music Reviews",
         "category": "(Local school project) Web app with major web tech functionality implemented",
         "image": "musicapp.jpg",
-        "url": "https://github.com/ewyn72/se3316-eng72-lab5"
+        "url": "https://github.com/ewyn72/MusicReview"
       },
       {
         "title": "Realistic Racing Game",
         "category": "Game which simulates physics of a moving vehicle in the unity engine.",
         "image": "rrg.jpg",
-        "url": "https://github.com/ewyn72/"
+        "url": "https://github.com/ewyn72/RacingGame"
       }
     ]
   },
