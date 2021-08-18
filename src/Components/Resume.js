@@ -32,17 +32,18 @@ class Resume extends Component {
             var skillsIndustry = this.props.data.skillsIndustry.map(function (skills) {
               return (
                   <p key={skills.name}>
-                      <em><b>{skills.name}</b> <span>&bull;</span>{" "} {skills.level}</em>
+                      <em><b>{skills.name}</b></em>
                   </p>
               );
           });
           var skillsOthers = this.props.data.skillsOthers.map(function (skills) {
             return (
                 <p >
-                    <em><b>{skills.name}</b> <span>&bull;</span>{" "} {skills.level}</em>
+                    <em><b>{skills.name}</b></em>
                 </p>
             );
         });
+        
         }
 
         return (
@@ -65,7 +66,7 @@ class Resume extends Component {
                     </div>
 
                     <div className="nine columns main-col">
-                        <p>{skillmessage}</p>
+                        {/* <p>{skillmessage}</p> */}
                         <div className="columns industry">
                           <h3>Industry</h3>
                           {skillsIndustry}
