@@ -2,9 +2,9 @@
   "main": {
     "name": "Ethan Ng",
     "occupation": "Software Developer",
-    "description": "Currently searching for a career in the software industry",
+    "description": "Currently searching for opportunities in Software Engineering/Development",
     "image": "profilepic.jpg",
-    "bio": "Volleyball and Badminton enthusiast, avid gamer, and lover of all things motorsports. I'm at the beginning of my software career and have the drive to compete with the best and brightest in this competitive industry. I have the most experience in Full Stack development with the MERN stack but I'm constantly learning and willing to learn new technologies. Please feel free to reach out to me if you have any questions!",
+    "bio": "I'm at the beginning of my software career and I am excited to collaborate with the best in the industry. I have industry experience in full stack development with the MERN stack and I'm constantly learning new technologies. When I'm not programming, I enjoy playing sports such Volleyball and Badminton, gaming with some friends, or watching Formula 1. Please feel free to reach out to me if you have any questions!",
     "contactmessage": "Like what you see or have questions for me? Send me an email or reach out to me over phone!",
     "email": "ekyng72@gmail.com",
     "phone": "(403) 894-3868",
@@ -43,13 +43,13 @@
         "company": "Amazon",
         "title": "Software Development Engineer Intern",
         "years": "July 2020 - September 2020",
-        "description": "Worked on the Tax Service team doing feature development for internal processes • Developed a React front-end service which provided greater visibility and maintainability of tax data structures using a Serverless Application Model by taking advantage of AWS Lambda, DynamoDB, Cognito, and API Gateway as the backend • Full product ownership from design to deployment of service"
+        "description": "I worked on the Tax Service team doing feature development for internal processes. My role was to expose the design of a custom tax data structure to help teams better understand its use cases. I developed a React front-end service to provide greater visibility and maintainability of the tax data structures using a Serverless Application Model by taking advantage of AWS Lambda, DynamoDB, Cognito, and API Gateway as the backend. Full product ownership from design to deployment of service resulting in time savings of approximately 20% by reducing the search time for specific data."
       },
       {
         "company": "ATB Financial",
         "title": "ATB 101 Student - Operations Support",
         "years": "May 2019 - March 2020",
-        "description": "Part of the Operations Support team working primarily on process automation to improve internal workflow efficiency • Implemented projects and scripts primarily in Google Script for repetitive workflows in teams to create time savings of up to an hour per person on the process • Collaborated closely with banking process stakeholder in an agile development environment to define project needs and specifications"
+        "description": "Part of the Operations Support team working primarily on process automation to improve internal workflow efficiency. I developed automation tools primarily in Google Script for repetitive workflows in teams by collaborating closely with banking process stakeholders in an agile development environment to define project needs and specifications. The most impactful tool I developed created time savings of up to an hour per person on the process by removing redundant parties involved and automating much of the manual communications."
       }
     ],
     "skillsIndustry": [
@@ -107,7 +107,7 @@
       },
       {
         "title": "Web Application - Music Reviews",
-        "category": "(Local school project) Web app with major web tech functionality implemented",
+        "category": "(Currently down) Web app with major web tech functionality implemented",
         "image": "musicapp.jpg",
         "url": "https://github.com/ewyn72/MusicReview"
       },
