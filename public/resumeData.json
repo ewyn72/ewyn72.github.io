@@ -4,7 +4,7 @@
     "occupation": "Software Developer",
     "description": "Currently searching for opportunities in Software Engineering/Development",
     "image": "profilepic.jpg",
-    "bio": "I'm at the beginning of my software career and I am excited to collaborate with the best in the industry. I have industry experience in full stack development with the MERN stack and I'm constantly learning new technologies. When I'm not programming, I enjoy playing sports such Volleyball and Badminton, gaming with some friends, or watching Formula 1. Please feel free to reach out to me if you have any questions!",
+    "bio": "I'm at the beginning of my software career and I am excited to collaborate with the best in the industry. I have industry experience in full stack development with the MERN stack and I'm constantly learning new technologies. When I'm not programming, I enjoy playing sports such as Volleyball and Badminton, gaming with some friends, or watching Formula 1. Please feel free to reach out to me if you have any questions!",
     "contactmessage": "Like what you see or have questions for me? Send me an email or reach out to me over phone!",
     "email": "ekyng72@gmail.com",
     "phone": "(403) 894-3868",
@@ -55,45 +55,119 @@
     "skillsIndustry": [
       {
         "name": "JavaScript",
-        "level": "Expert"
+        "ref": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+        "alt": "javascript"
       },
       {
         "name": "Git",
-        "level": "Expert"
+        "ref": "https://git-scm.com/",
+        "src": "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg",
+        "alt": "git"
       },
       {
         "name": "ReactJs",
-        "level": "Expert"
+        "ref": "https://reactjs.org/",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
+        "alt": "reactjs"
       },
       {
-        "name": "HTML/CSS",
-        "level": "Proficient"
+        "name": "HTML",
+        "ref": "https://www.w3.org/html/",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg",
+        "alt": "html"
+      },
+      {
+        "name": "CSS",
+        "ref": "https://www.w3schools.com/css/",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg",
+        "alt": "css"
       },
       {
         "name": "AWS",
-        "level": "Proficient"
+        "ref": "https://aws.amazon.com",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+        "alt": "aws"
       },
       {
         "name": "Node.js",
-        "level": "Proficient"
+        "ref": "https://nodejs.org",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg",
+        "alt": "nodejs"
       }
     ],
     "skillsOthers": [
       {
         "name": "C++",
-        "level": "Competent"
+        "ref": "https://www.w3schools.com/cpp/",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg",
+        "alt": "cpp"
       },
       {
         "name": "C#",
-        "level": "Competent"
+        "ref": "https://www.w3schools.com/cs/",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg",
+        "alt": "cs"
+      },
+      {
+        "name": "Java",
+        "ref": "https://www.java.com",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+        "alt": "java"
       },
       {
         "name": "Python",
-        "level": "Competent"
+        "ref": "https://www.python.org",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+        "alt": "python"
+      },
+      {
+        "name": "Angular",
+        "ref": "https://angular.io",
+        "src": "https://angular.io/assets/images/logos/angular/angular.svg",
+        "alt": "angular"
       },
       {
         "name": "Android",
-        "level": "Advanced Beginner"
+        "ref": "https://developer.android.com",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg",
+        "alt": "android"
+      },
+      {
+        "name": "Swift",
+        "ref": "https://developer.apple.com/swift/",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg",
+        "alt": "swift"
+      },
+      {
+        "name": "MongoDB",
+        "ref": "https://www.mongodb.com/",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+        "alt": "mongodb"
+      },
+      {
+        "name": "Docker",
+        "ref": "https://www.docker.com/",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
+        "alt": "docker"
+      },
+      {
+        "name": "Kubernetes",
+        "ref": "https://kubernetes.io",
+        "src": "https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg",
+        "alt": "kubernetes"
+      },
+      {
+        "name": "Azure",
+        "ref": "https://azure.microsoft.com/en-in/",
+        "src": "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg",
+        "alt": "azure"
+      },
+      {
+        "name": "ExpressJS",
+        "ref": "https://expressjs.com",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg",
+        "alt": "expressjs"
       }
     ]
   },

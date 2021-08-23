@@ -29,21 +29,36 @@ class Resume extends Component {
                     </div>
                 );
             });
-            var skillsIndustry = this.props.data.skillsIndustry.map(function (skills) {
-              return (
-                  <p key={skills.name}>
-                      <em><b>{skills.name}</b></em>
-                  </p>
-              );
-          });
-          var skillsOthers = this.props.data.skillsOthers.map(function (skills) {
-            return (
-                <p >
-                    <em><b>{skills.name}</b></em>
-                </p>
-            );
-        });
-        
+            var skillsIndustry = this.props.data.skillsIndustry.map(function (
+                skills
+            ) {
+                return (
+                    <a href={skills.ref} target="_blank">
+                        {" "}
+                        <img
+                            src={skills.src}
+                            alt={skills.alt}
+                            width="50"
+                            height="50"
+                        />{" "}
+                    </a>
+                );
+            });
+            var skillsOthers = this.props.data.skillsOthers.map(function (
+                skills
+            ) {
+                return (
+                    <a href={skills.ref} target="_blank">
+                        {" "}
+                        <img
+                            src={skills.src}
+                            alt={skills.alt}
+                            width="50"
+                            height="50"
+                        />{" "}
+                    </a>
+                );
+            });
         }
 
         return (
@@ -66,15 +81,11 @@ class Resume extends Component {
                     </div>
 
                     <div className="nine columns main-col">
-                        {/* <p>{skillmessage}</p> */}
-                        <div className="columns industry">
-                          <h3>Industry</h3>
-                          {skillsIndustry}
-                          </div>
-                        <div className="columns others">
-                          <h3>Academic/Others</h3>
-                          {skillsOthers}
-                          </div>
+                        <h3>Industry</h3>
+                        <p>{skillsIndustry}</p>
+
+                        <h3>Academic/Personal</h3>
+                        <p>{skillsOthers}</p>
                     </div>
                 </div>
 
